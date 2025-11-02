@@ -1,0 +1,6 @@
+Requirements: 
+PRAW
+csv
+os
+pandas
+load_dotenv
